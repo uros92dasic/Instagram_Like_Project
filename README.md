@@ -1,4 +1,4 @@
-# InstagramLikeProject
+# InstagramLikeProject - Laravel
 You can login using:
 Email: "test@test.com"
 Pass: "1234567890"
